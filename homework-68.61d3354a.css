@@ -1,0 +1,46 @@
+.content {
+  flex-direction: column;
+  gap: 30px;
+  display: flex;
+}
+
+#box1 {
+  background-color: #b22222;
+  width: 200px;
+  height: 200px;
+}
+
+#box2 {
+  background-color: #9acd32;
+  width: 200px;
+  height: 200px;
+}
+
+#box3 {
+  background-color: #6a5acd;
+  width: 200px;
+  height: 200px;
+}
+
+.text {
+  margin-top: 100px;
+}
+
+#field {
+  background-color: #b0e0e6;
+  border: 10px solid #87ceeb;
+  width: 1000px;
+  height: 400px;
+  margin-bottom: 100px;
+  position: relative;
+}
+
+#circle {
+  background-color: gold;
+  border: 10px solid #daa520;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+/*# sourceMappingURL=homework-68.61d3354a.css.map */
