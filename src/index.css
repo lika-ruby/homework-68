@@ -1,0 +1,43 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+#box1 {
+  width: 200px;
+  height: 200px;
+  background-color: firebrick;
+}
+#box2 {
+  width: 200px;
+  height: 200px;
+  background-color: yellowgreen;
+}
+#box3 {
+  width: 200px;
+  height: 200px;
+  background-color: slateblue;
+}
+
+.text {
+  margin-top: 100px;
+}
+
+#field {
+  background-color: powderblue;
+  border: 10px solid skyblue;
+  width: 1000px;
+  height: 400px;
+  position: relative;
+  margin-bottom: 100px;
+}
+
+#circle {
+  width: 80px;
+  height: 80px;
+  background-color: gold;
+  border: 10px solid goldenrod;
+  border-radius: 50%;
+  position: absolute;
+}
